@@ -10,8 +10,6 @@ h1 { text-align: center;
 figure {
   text-align: center;
   
- 
-
 }
 
 figcaption {
@@ -26,7 +24,11 @@ nav {
   background-color: red;
 }
 
-
+p {
+  width: 800px;
+  text-align: center;
+ 
+}
 
 #details {
   display: block;
