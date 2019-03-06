@@ -7,9 +7,14 @@ h1 { text-align: center;
   
 }
 
-figure {
+section {
   text-align: center;
   
+  p {
+  width: 800px;
+  text-align: center;
+ 
+}]
 }
 
 figcaption {
@@ -24,11 +29,7 @@ nav {
   background-color: red;
 }
 
-p {
-  width: 800px;
-  text-align: center;
- 
-}
+
 
 #details {
   display: block;
