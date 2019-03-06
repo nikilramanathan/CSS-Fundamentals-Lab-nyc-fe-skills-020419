@@ -28,7 +28,13 @@ p {
   width: 800px;
   text-align: center;
  
+}
 
+#details {
+  display: block;
+  float: left;
+
+}
 div {
   background-color: red;
   text-align: center;
