@@ -17,13 +17,14 @@ figcaption {
   font-size: 10px;
 }
 
-
-
-p {
-  width: 800px;
+nav {
   text-align: center;
- 
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: red;
 }
+
+
 
 #details {
   display: block;
