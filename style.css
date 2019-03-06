@@ -7,11 +7,12 @@ h1 { text-align: center;
   
 }
 
-
-figcaption {
+figure {
   text-align: center;
-  font-size: 10px;
+  
 }
+
+
 
 nav {
   text-align: center;
