@@ -28,11 +28,9 @@ figcaption {
 
  
 
-#details {
-  display: block;
 
-}
 div {
+  display: block;
   background-color: red;
   float: left;
   text-align: center;
