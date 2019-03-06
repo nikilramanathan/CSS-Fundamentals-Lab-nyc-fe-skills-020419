@@ -36,7 +36,7 @@ p {
 
 }
 div {
-  background-color: red
-  text-align: center
-  
+  background-color: red;
+  text-align: center;
+  width: 25%;
 }
